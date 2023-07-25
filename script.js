@@ -61,7 +61,7 @@ function getIcon(classIcone) {
         return 'fas fa-cloud-showers-heavy';
     } if (classIcone === 'Sun') {
         return 'fas fa-sun';
-    }  if (classIcone === 'Cloud') {
+    }  if (classIcone === 'Clouds') {
         return 'fas fa-cloud';
     }  if (classIcone === 'Snow') {
         return 'fas fa-snowflake';
